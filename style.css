@@ -1,0 +1,20 @@
+    
+/*  
+    rbg YankeesBlue #151842 (21,24,66) for background
+    rbg Medium Spring Green #1AEFAC (26,239,172) for buttons and such
+    rbg Periwinkle #BFCFFF (191,207,255) for big title text 
+    rbg Azureish White #D8E2FF (216,226,255) for small text  
+*/
+
+
+*{
+    font-family: Monaco, Menlo, Consolas;
+    text-align: center;
+    background-color: rgb(21, 24, 66);
+    color: rgb(26, 239, 172);
+
+
+
+
+
+}
