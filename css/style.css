@@ -49,7 +49,7 @@ a, a:visited {
 }
 
 a:hover {
-    color: rgb(103, 138, 254);
+    color: #08d9d6;
 }
 
 
@@ -61,6 +61,12 @@ a:hover {
 
 
 /********************************CLASS SELECTORS******************************/
+
+.intro {
+    background-color: black;
+    height: 100%;
+    margin: 20%;
+}
 
 .tble {
     text-align: left;
