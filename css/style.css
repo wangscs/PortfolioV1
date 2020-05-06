@@ -21,30 +21,43 @@
 /*********************************TAG SELECTORS*******************************/
 
 body {
-    background-color: #252a34;
-    color: #eaeaea;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: auto;
+    height: 100%;
+    margin: 0;
     text-align: center;
-    width: 60%;
 }
  
 h1 {
-    color: #ff2e63;
+    
+    color: #eaeaea;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 400%;
+    margin: 0;
 }
 
-h4 {
+ 
+h2 {
+    
     color: #ff2e63;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 200%;
+    margin: 0;
 }
+
+h3 {
+    color: #eaeaea;
+    font-family: 'Cairo', sans-serif;
+    font-size: 150%;
+    margin: 0;
+}
+
 p {
-    color: #eaeaea;
+    /* color: #252a34; */
+    font-family: 'Cairo', sans-serif;
+    margin: 0;
 }
 
-img {
-    width: 100px;
-}
 a, a:visited {
-    color: #eaeaea;
+    color: #252a34;
     text-decoration: none;
 }
 
@@ -63,14 +76,50 @@ a:hover {
 /********************************CLASS SELECTORS******************************/
 
 .intro {
-    background-color: black;
+    background-color: #252a34;
     height: 100%;
-    margin: 20%;
+    min-height: 100%;
+    padding: 350px 0 470px 0;
 }
 
-.tble {
-    text-align: left;
+.bloo {
+    color: #ff2e63;
 }
 
+.about-me {
+    color: #252a34;
+    padding: 350px 0 470px 0;
+    margin: auto;
+    width: 70%;
+}
+
+.about-me a {
+    color: #252a34;
+}
+
+.project-page  {
+    color: #252a34;
+    padding: 350px 0 470px 0;
+    margin: auto;
+    width: 70%;
+}
+
+.contact-me {
+
+    padding: 100px 0 100px 0;
+}
+
+.bottom-footer {
+    background-color: #252a34;
+    color: #eaeaea;
+    padding: 100px 0 100px 0;
+}
+
+.bottom-footer a, a:visited{
+    color: #eaeaea;
+}
+.bottom-footer a:hover {
+    color: #08d9d6;
+}
 
 
