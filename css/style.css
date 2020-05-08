@@ -4,24 +4,23 @@ body {
     margin: 0;
     text-align: center;
 }
- 
+
 h1 {
-    color: #eaeaea;
+    color: #EAEAEA;
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 400%;
     margin: 0;
 }
 
- 
 h2 {
-    color: #ff2e63;
+    color: #FF2E63;
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 200%;
     margin: 0;
 }
 
 h3 {
-    color: #eaeaea;
+    color: #EAEAEA;
     font-family: 'Cairo', sans-serif;
     font-size: 150%;
     margin: 0 0 50px 0;
@@ -33,12 +32,12 @@ p {
 }
 
 a, a:visited {
-    color: #252a34;
+    color: #252A34;
     text-decoration: none;
 }
 
 a:hover {
-    color: #08d9d6;
+    color: #08D9D6;
 }
 
 
@@ -50,8 +49,9 @@ a:hover {
 
 
 /********************************CLASS SELECTORS******************************/
+
 .first-page {
-    background-color: #252a34;
+    background-color: #252A34;
     height: 100vh;
 }
 
@@ -84,32 +84,33 @@ a:hover {
     border-radius: 0px;
     text-decoration: none;
 }
+
 .contridt-txt {
-    color: #ff2e63;
+    color: #FF2E63;
 }
 
 .about-me {
-    color: #252a34;
+    color: #252A34;
     padding: 150px 0 670px 0;
     margin: auto;
     width: 70%;
 }
 
 .about-me a { 
-    color: #252a34;
+    color: #252A34;
 }
 
 .about-me a:visited {
-    color: #252a34;
+    color: #252A34;
 }
 
 .about-me a:hover {
-    color: #ff2e63;
+    color: #FF2E63;
 }
 
 .project-page  {
-    background-color: lightgray;
-    color: #252a34;
+    background-color: #DBE2EF;
+    color: #252A34;
     padding: 50px 0 770px 0;
     margin: auto;
 }
@@ -134,29 +135,60 @@ a:hover {
     padding: 15px;
     text-align: center;
     text-decoration: none;
-    
 }
 
 .mail-button:hover {
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
-    background: #08d9d6;
+    background: #08D9D6;
     border-radius: 0px;
     color: #252A34;
     text-decoration: none;
 }
 
 .bottom-footer {
-    background-color: #252a34;
-    color: #eaeaea;
-    padding: 100px 0 100px 0;
+    background-color: #252A34;
+    color: #EAEAEA;
+    padding: 25px 0 50px 0;
+}
+
+.footer-link {
+    margin: 10px;
 }
 
 .bottom-footer a, a:visited{
-    color: #eaeaea;
+    color: #EAEAEA;
 }
+
 .bottom-footer a:hover {
-    color: #ff2e63;
+    color: #FF2E63;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
