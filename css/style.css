@@ -91,7 +91,7 @@ a:hover {
 
 .about-me {
     color: #252A34;
-    padding: 150px 0 670px 0;
+    padding: 150px 0 150px 0;
     margin: auto;
     width: 70%;
 }
@@ -111,13 +111,28 @@ a:hover {
 .project-page  {
     background-color: #DBE2EF;
     color: #252A34;
-    padding: 50px 0 770px 0;
+    padding: 50px 0 50px 0;
     margin: auto;
+}
+
+.project-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+
+.project-img {
+    width: 25%;
+}
+
+.project-container img{
+    display: inline-block;
+    max-width: 40%;
 }
 
 .contact-me {
 
-    padding: 50px 0 150px 0;
+    padding: 50px 0 50px 0;
 }
 
 .mail-button {
