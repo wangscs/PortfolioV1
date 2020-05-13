@@ -229,6 +229,11 @@ a:hover {
     margin: 10px;
 }
 
+.link-img {
+    margin: 10px;
+    width: 48px;
+}
+
 .bottom-footer a, a:visited{
     color: #EAEAEA;
 }
@@ -236,18 +241,5 @@ a:hover {
 .bottom-footer a:hover {
     color: #FF2E63;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
