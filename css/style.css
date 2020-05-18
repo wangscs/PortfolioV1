@@ -71,8 +71,6 @@ a:hover {
 }
 
 .intro button {
-    -webkit-border-radius: 0px;
-    -moz-border-radius: 0px;
     background-color: #252A34;
     border: solid #EAEAEA 3px;
     border-radius: 0px;
@@ -142,6 +140,7 @@ a:hover {
     color: #252A34;
     padding: 150px 0 150px 0;
     margin: auto;
+    text-align: center;
     width: 50%;
 }
 
@@ -193,8 +192,8 @@ a:hover {
 }
 
 .contact-me {
-
     padding: 50px 0 50px 0;
+    text-align: center;
 }
 
 .mail-button {
@@ -227,6 +226,7 @@ a:hover {
     background-color: #252A34;
     color: #EAEAEA;
     padding: 25px 0 50px 0;
+    text-align: center;
 }
 
 .footer-link {
